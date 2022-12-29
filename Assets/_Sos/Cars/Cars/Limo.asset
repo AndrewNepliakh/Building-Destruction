@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7061fa79e834fc3a9af420b01932906, type: 3}
+  m_Name: Limo
+  m_EditorClassIdentifier: 
+  Name: Limo
+  Price: 5000
+  CarModelPrefab:
+    m_AssetGUID: a0821c4a6f4454f99b2823a3a0eb7941
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  InGamePrefab:
+    m_AssetGUID: 6c17ad14f041d3546b697eb0fd88bdab
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

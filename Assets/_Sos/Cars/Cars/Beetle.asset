@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7061fa79e834fc3a9af420b01932906, type: 3}
+  m_Name: Beetle
+  m_EditorClassIdentifier: 
+  Name: Beetle
+  Price: 500
+  CarModelPrefab:
+    m_AssetGUID: 9c914a5a26ce746ad9e66f4c0042451c
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  InGamePrefab:
+    m_AssetGUID: 44fe566b7f8e9e3418bca162da9971f0
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

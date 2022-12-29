@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ae9dd8f7ecec3bf4483275bab7d5c60c
+  m_SerializeEntries:
+  - m_GUID: fb98a41d144df7f4ea3758bdb98012a3
+    m_Address: CommonPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: d7332995a6f8f7e41bf2e996f6aeb1e1
+    m_Address: MainHUDWindow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: b0f63072658d139498a618b9453c41f8
+    m_Address: Level_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 575266e8715d7a94db74d427a05955d3
+    m_Address: LevelStartSoundSource
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0acea847863d7c14f888ab6a7f959a2a
+    m_Address: Building_1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9b83c60f3a948fd4fa50ebc8c86f2a9b
+    m_Address: Assets/Plugins/Toon Vehicles/Models/Car_23B.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af8fae2396756a54aaeb9c6983aed001
+    m_Address: Assets/_Prefabs/Player/CabrioPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b682e6d6bba3d5b479bfb613c6013d46
+    m_Address: Assets/_Prefabs/Player/BigTruckPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 815add8cf4abd450895780244b9dc7d8
+    m_Address: Assets/Toon Vehicles/Models/Car_12A.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44f646c6bcb8d4b2d8763c67e62b3d71
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_12A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e4f26ccc3ade456e876d2cc14e869fb
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_4B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34e1c1070d0210d4e86fcb857d28420d
+    m_Address: Assets/_Prefabs/Player/SemiTruckPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0821c4a6f4454f99b2823a3a0eb7941
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_8C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d94437dcaebba48418228acdefa25174
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_7B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba3456be73abd4cab9830f3c743f03b3
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_2B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c914a5a26ce746ad9e66f4c0042451c
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_1A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 021c90b0aa2b3a542a978ac82a227eca
+    m_Address: Assets/_Prefabs/Player/SmallPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 34b0d3721e77b81439c6d7a265bc903d
+    m_Address: Assets/_Prefabs/Player/PoliceVanPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 44fe566b7f8e9e3418bca162da9971f0
+    m_Address: Assets/_Prefabs/Player/BeetlePlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c17ad14f041d3546b697eb0fd88bdab
+    m_Address: Assets/_Prefabs/Player/LimoPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7647482974224ad498e9e00d0e710251
+    m_Address: Level_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d07910e0db28f249b754ba1973c425c
+    m_Address: Building_2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f55b4121a1cc1974bb6ce4fe8ae837f9
+    m_Address: Level_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed6650ee66a6eea40b4d2c862103c988
+    m_Address: Level_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01bf1958cb37efc4980f0e019b20178c
+    m_Address: Building_3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ba01d02fc4cbc9488be58bc138f3c81
+    m_Address: Building_4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b198fa2a16c584d47afbda2cd13801ee
+    m_Address: MenuWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80f3ed36ac1b7814ba2d80a78865879c
+    m_Address: CarSelectWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d439185eec1afff45942c3c0a835b3fe
+    m_Address: BuyCarWindow
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a963cfe2deb6dd40935c2bf959dc408
+    m_Address: NotEnoughMoneyPopup
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c0442068dcb73e428c3e0e327bc46fc
+    m_Address: Assets/Toon Vehicles/Prefabs/Cars/Car_23B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 671d6aa2bc15ac24393ff54e7f190536, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aeb0e1b0834308e4a9ab41eb9ed2ef8f, type: 2}
+    - {fileID: 11400000, guid: d160ae60d70c7a24aa21a5f47d6e817c, type: 2}

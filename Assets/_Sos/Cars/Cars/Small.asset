@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7061fa79e834fc3a9af420b01932906, type: 3}
+  m_Name: Small
+  m_EditorClassIdentifier: 
+  Name: Small
+  Price: 0
+  IsUnlocked: 1
+  CarModelPrefab:
+    m_AssetGUID: d94437dcaebba48418228acdefa25174
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  InGamePrefab:
+    m_AssetGUID: 021c90b0aa2b3a542a978ac82a227eca
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
